@@ -52,7 +52,7 @@ button:hover {
 button:active {
     background: #003d80;
 }
-#res{
+.res{
     background-color: black;
     width:215%;
 }
