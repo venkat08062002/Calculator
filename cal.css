@@ -54,6 +54,7 @@ button:active {
 }
 #res{
     background-color: black;
+    width:215%;
 }
 .history {
     margin-top: 20px;
